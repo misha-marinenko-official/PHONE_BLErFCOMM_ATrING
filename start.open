@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /Users/0x77/automation/PHONE_BLErFCOMM_ATrING
+node index.js

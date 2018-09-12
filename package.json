@@ -1,0 +1,26 @@
+{
+  "name": "phone_blerfcomm_atring-",
+  "version": "0.0.0",
+  "description": "My phone connects the sim module over bluetooth rfcomm to pc/mac and IF who calls to me its printing RING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sim",
+    "bluetooth",
+    "tty",
+    "rfcomm",
+    "macOS",
+    "windows",
+    "pushnod",
+    "phone",
+    "call"
+  ],
+  "author": "Misha Marinenko",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-notifier": "^5.2.1",
+    "serialport": "^7.0.2"
+  }
+}
